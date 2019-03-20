@@ -1,7 +1,7 @@
 #pragma once
 
-#include "Programmer.cpp"
-#include "../../Heading.cpp"
+#include "Programmer.h"
+#include "../../Heading.h"
 
 class TeamLeader : public Programmer, public virtual Heading {
 
