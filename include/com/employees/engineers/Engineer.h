@@ -1,8 +1,8 @@
 #pragma once
 
-#include "../../WorkTime.cpp"
-#include "../../Project.cpp"
-#include "../Employee.cpp"
+#include "../../WorkTime.h"
+#include "../../Project.h"
+#include "../Employee.h"
 
 #include <string>
 
