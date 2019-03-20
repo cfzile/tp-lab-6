@@ -1,7 +1,7 @@
 #pragma once
 
-#include "../../WorkTime.cpp"
-#include "../Employee.cpp"
+#include "../../WorkTime.h"
+#include "../Employee.h"
 
 class Personal : public Employee, public virtual WorkTime {
 
