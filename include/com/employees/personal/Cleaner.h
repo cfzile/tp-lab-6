@@ -1,4 +1,4 @@
-#include "Personal.cpp"
+#include "Personal.h"
 
 class Cleaner : public Personal {
 
