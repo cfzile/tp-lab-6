@@ -1,7 +1,7 @@
 #pragma once
 
-#include "../../Project.cpp"
-#include "../Employee.cpp"
+#include "../../Project.h"
+#include "../Employee.h"
 
 class Manager : public Employee, public virtual Project{
 
