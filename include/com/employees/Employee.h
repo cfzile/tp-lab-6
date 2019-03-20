@@ -1,6 +1,6 @@
 #pragma once
 
-#include "../FULLNAME.cpp"
+#include "../FULLNAME.h"
 
 class Tester;
 class Programmer;
