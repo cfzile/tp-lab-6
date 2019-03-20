@@ -1,6 +1,6 @@
 #pragma once
 
-#include "Engineer.cpp"
+#include "Engineer.h"
 
 class Tester : public Engineer {
 
