@@ -1,8 +1,8 @@
-#include "../include/com/employees/engineers/TeamLeader.cpp"
-#include "../include/com/employees/engineers/Tester.cpp"
-#include "../include/com/employees/personal/Cleaner.cpp"
-#include "../include/com/employees/personal/Driver.cpp"
-#include "../include/com/employees/managers/SeniorManager.cpp"
+#include "../include/com/employees/engineers/TeamLeader.h"
+#include "../include/com/employees/engineers/Tester.h"
+#include "../include/com/employees/personal/Cleaner.h"
+#include "../include/com/employees/personal/Driver.h"
+#include "../include/com/employees/managers/SeniorManager.h"
 
 #include <fstream>
 #include <map>
