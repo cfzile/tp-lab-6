@@ -3,7 +3,7 @@
 #include <ctime>
 #include <vector>
 
-#include "../include/com/employees/Employee.cpp"
+#include "../include/com/employees/Employee.h"
 
 using namespace std;
 
