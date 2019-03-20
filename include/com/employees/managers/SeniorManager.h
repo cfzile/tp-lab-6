@@ -1,6 +1,6 @@
 #pragma once
 
-#include "ProjectManager.cpp"
+#include "ProjectManager.h"
 
 class SeniorManager : public ProjectManager{
 
